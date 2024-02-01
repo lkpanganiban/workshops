@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>PnM 2023 Map Example</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+      crossorigin=""
+    />
+    <style>
+      #map {
+        height: 400px;
+      }
+    </style>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+  </head>
+  <body>
+    <h1>PnM 2023 - Tacloban</h1>
+    <input type="text" id="searchInput" onkeydown="handleKeyDown(event)" />
+    <div id="map"></div>
+
+    <script
+      src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+      crossorigin=""
+    ></script>
+    <script>
+      var map = L.map("map").setView(
+        [11.245226230734062, 125.00322080327464],
+        16
+      );
+      L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+        attribution:
+          'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors',
+        maxZoom: 21,
+      }).addTo(map);
+      let markers = [];
+
+      function handleKeyDown(event) {
+        if (event.key === "Enter") {
+          performSearch();
+        }
+      }
+      function performSearch() {
+        for (var i = 0; i < markers.length; i++) {
+          map.removeLayer(markers[i]);
+        }
+        const inputValue = document.getElementById("searchInput").value;
+        const apiUrl = "http://localhost:9200/pnmindex/_search";
+        const params = { size: 100, from: 0, q: inputValue };
+        axios.get(apiUrl, { params }).then(function (response) {
+          for (var i = 0; i < response.data.hits.hits.length; i++) {
+            var hit = response.data.hits.hits[i];
+            var marker = L.geoJson(hit._source, {
+              onEachFeature: function (feature, layer) {
+                layer.bindPopup(feature.properties.name); // Replace 'name' with the property you want to display in the popup
+              },
+            });
+            markers.push(marker);
+            marker.addTo(map);
+          }
+        });
+      }
+    </script>
+  </body>
+</html>

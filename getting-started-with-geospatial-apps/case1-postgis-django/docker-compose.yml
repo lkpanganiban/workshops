@@ -1,0 +1,27 @@
+version: '3.7'
+
+services:
+  geodjango:
+    container_name: geodjango
+    build:
+      context: ./src
+      dockerfile: Dockerfile
+    command: python manage.py runserver 0.0.0.0:8000
+    volumes:
+      - ./src:/src
+    ports:
+      - "7500:8000"
+    env_file:
+      - ./.env.sample
+    depends_on:
+      - db
+  db: 
+    container_name: postgis-db
+    image: postgis/postgis:16-3.4-alpine
+    volumes:
+      - postgis_data:/var/lib/postgresql/data/
+    env_file:
+      - ./.env.sample
+
+volumes:
+  postgis_data:

@@ -1,0 +1,3969 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-11-17T11:44:45Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/99211035",
+        "amenity": "school",
+        "name": "Bethel International School"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              124.9997644,
+              11.1881692
+            ],
+            [
+              125.000039,
+              11.1870875
+            ],
+            [
+              125.0000703,
+              11.1869643
+            ],
+            [
+              125.0004695,
+              11.1867525
+            ],
+            [
+              125.0011346,
+              11.1863998
+            ],
+            [
+              125.001519,
+              11.1861959
+            ],
+            [
+              125.0020926,
+              11.1875114
+            ],
+            [
+              125.0019222,
+              11.1881929
+            ],
+            [
+              125.0019142,
+              11.1886902
+            ],
+            [
+              125.0013576,
+              11.1886797
+            ],
+            [
+              124.9997644,
+              11.1881692
+            ]
+          ]
+        ]
+      },
+      "id": "way/99211035"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/100455896",
+        "addr:city": "Tacloban",
+        "addr:province": "Leyte",
+        "addr:street": "Lino Gonzaga Avenue",
+        "amenity": "school",
+        "evacuation_center": "yes",
+        "isced:level": "2-3",
+        "name": "Leyte National High School",
+        "old_name": "Leyte High School",
+        "operator": "District Learning Center I Tacloban City Schools Division, DepEd",
+        "operator:type": "public",
+        "population:pupils:2012": "5621",
+        "population:pupils:2015": "5621",
+        "ref": "303663",
+        "social_facility": "shelter",
+        "social_facility:for": "displaced",
+        "source": "Department of Education, Philippines",
+        "source:date": "2012",
+        "specialized_education": "special_needs",
+        "start_date": "2000"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              124.9990527,
+              11.238181
+            ],
+            [
+              124.9982197,
+              11.2374583
+            ],
+            [
+              124.9983646,
+              11.2365376
+            ],
+            [
+              124.9987884,
+              11.2359851
+            ],
+            [
+              124.9992448,
+              11.2360583
+            ],
+            [
+              124.9992906,
+              11.2360693
+            ],
+            [
+              124.9997531,
+              11.2361734
+            ],
+            [
+              125.0005449,
+              11.2363545
+            ],
+            [
+              125.0006236,
+              11.2363774
+            ],
+            [
+              125.0007043,
+              11.2365108
+            ],
+            [
+              125.0008825,
+              11.2367559
+            ],
+            [
+              125.0008876,
+              11.2367745
+            ],
+            [
+              125.0009237,
+              11.2368972
+            ],
+            [
+              125.000958,
+              11.2369475
+            ],
+            [
+              125.0009889,
+              11.2370282
+            ],
+            [
+              125.0009623,
+              11.2371092
+            ],
+            [
+              125.000881,
+              11.237302
+            ],
+            [
+              125.0007527,
+              11.2374058
+            ],
+            [
+              125.0003019,
+              11.2375034
+            ],
+            [
+              124.9998803,
+              11.2376461
+            ],
+            [
+              124.9997852,
+              11.2376934
+            ],
+            [
+              124.9991954,
+              11.2380553
+            ],
+            [
+              124.9990527,
+              11.238181
+            ]
+          ]
+        ]
+      },
+      "id": "way/100455896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/100584843",
+        "addr:city": "Tacloban City",
+        "addr:postcode": "6500",
+        "addr:street": "Tinta-Patik Road",
+        "amenity": "school",
+        "name": "St. Therese Chrisitan Development Foundation Inc."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              124.9853023,
+              11.2371986
+            ],
+            [
+              124.9845722,
+              11.2379052
+            ],
+            [
+              124.9838832,
+              11.2374059
+            ],
+            [
+              124.984566,
+              11.2367684
+            ],
+            [
+              124.9846547,
+              11.2367728
+            ],
+            [
+              124.9847668,
+              11.236715
+            ],
+            [
+              124.9848785,
+              11.236807
+            ],
+            [
+              124.9853023,
+              11.2371986
+            ]
+          ]
+        ]
+      },
+      "id": "way/100584843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/106486038",
+        "amenity": "school",
+        "building": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              125.0027098,
+              11.2503019
+            ],
+            [
+              125.0026733,
+              11.2502281
+            ],
+            [
+              125.002602,
+              11.2500922
+            ],
+            [
+              125.0025897,
+              11.2500623
+            ],
+            [
+              125.0027481,
+              11.249984
+            ],
+            [
+              125.0027606,
+              11.2500105
+            ],
+            [
+              125.0027797,
+              11.2500445
+            ],
+            [
+              125.0028342,
+              11.2501478
+            ],
+            [
+              125.002872,
+              11.2502222
+            ],
+            [
+              125.0028105,
+              11.2502525
+            ],
+            [
+              125.0027098,
+              11.2503019
+            ]
+          ]
+        ]
+      },
+      "id": "way/106486038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/202622712",
+        "addr:city": "Tacloban",
+        "addr:province": "Leyte",
+        "addr:street": "Manlurip Road",
+        "addr:village": "Barangay 87",
+        "amenity": "school",
+        "isced:level": "1",
+        "name": "San Jose Elementary School",
+        "operator": "District Learning Center V Tacloban City Schools Division, DepEd",
+        "operator:type": "public",
+        "population:pupils:2012": "2744",
+        "population:pupils:2015": "3152",
+        "ref": "124250",
+        "source": "Department of Education, Philippines",
+        "source:date": "2012",
+        "start_date": "2000"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              125.0225256,
+              11.20403
+            ],
+            [
+              125.0227844,
+              11.2047575
+            ],
+            [
+              125.0228958,
+              11.2050771
+            ],
+            [
+              125.0229655,
+              11.2054718
+            ],
+            [
+              125.0229669,
+              11.2055605
+            ],
+            [
+              125.0229669,
+              11.2056423
+            ],
+            [
+              125.0229679,
+              11.2057746
+            ],
+            [
+              125.022973,
+              11.2058746
+            ],
+            [
+              125.0225256,
+              11.2058085
+            ],
+            [
+              125.0224157,
+              11.2057877
+            ],
+            [
+              125.0220536,
+              11.2057191
+            ],
+            [
+              125.0218551,
+              11.2056822
+            ],
+            [
+              125.0216872,
+              11.20556
+            ],
+            [
+              125.0216255,
+              11.2054229
+            ],
+            [
+              125.0216341,
+              11.2047058
+            ],
+            [
+              125.0225256,
+              11.20403
+            ]
+          ]
+        ]
+      },
+      "id": "way/202622712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/209696598",
+        "addr:city": "Tacloban",
+        "addr:province": "Leyte",
+        "addr:street": "Salazar Street",
+        "amenity": "school",
+        "emergency:amenity": "social_facility",
+        "emergency:social_facility": "shelter",
+        "emergency:social_facility:for": "displaced_people",
+        "isced:level": "0-1",
+        "name": "Kapangian Central School",
+        "operator": "District Learning Center III Tacloban City Schools Division, DepEd",
+        "operator:type": "public",
+        "population:pupils:2012": "1635",
+        "population:pupils:2015": "1879",
+        "ref": "124257",
+        "social_facility": "shelter",
+        "social_facility:for": "displaced",
+        "source": "toy",
+        "source:date": "2012",
+        "start_date": "2000"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              124.9993314,
+              11.243694
+            ],
+            [
+              124.99925,
+              11.2437697
+            ],
+            [
+              124.9990269,
+              11.2440092
+            ],
+            [
+              124.9989614,
+              11.2439412
+            ],
+            [
+              124.9988928,
+              11.2439776
+            ],
+            [
+              124.9988311,
+              11.2439224
+            ],
+            [
+              124.9988686,
+              11.2438803
+            ],
+            [
+              124.9986997,
+              11.2436856
+            ],
+            [
+              124.9987717,
+              11.2435817
+            ],
+            [
+              124.9989378,
+              11.2434412
+            ],
+            [
+              124.9990001,
+              11.2434909
+            ],
+            [
+              124.9990848,
+              11.2434264
+            ],
+            [
+              124.9993314,
+              11.243694
+            ]
+          ]
+        ]
+      },
+      "id": "way/209696598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/209697109",
+        "addr:city": "Tacloban",
+        "addr:province": "Leyte",
+        "addr:street": "Lino Gonzaga Avenue",
+        "amenity": "school",
+        "isced:level": "1",
+        "name": "Tacloban City Central School",
+        "old_name": "City Elementary School",
+        "operator": "District Learning Center VI Tacloban City Schools Division, DepEd",
+        "operator:type": "public",
+        "population:pupils:2012": "1005",
+        "population:pupils:2015": "1126",
+        "ref": "124256",
+        "source": "Department of Education, Philippines",
+        "source:date": "2012",
+        "start_date": "1960"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              124.9983024,
+              11.2393644
+            ],
+            [
+              124.9984368,
+              11.2394333
+            ],
+            [
+              124.9985897,
+              11.2395869
+            ],
+            [
+              124.9987835,
+              11.2397655
+            ],
+            [
+              124.998959,
+              11.2398876
+            ],
+            [
+              124.9990226,
+              11.2398934
+            ],
+            [
+              124.9990755,
+              11.2399128
+            ],
+            [
+              124.9991284,
+              11.2399921
+            ],
+            [
+              124.9985721,
+              11.2402706
+            ],
+            [
+              124.9985057,
+              11.2401972
+            ],
+            [
+              124.9982705,
+              11.2400289
+            ],
+            [
+              124.998055,
+              11.2398909
+            ],
+            [
+              124.9983024,
+              11.2393644
+            ]
+          ]
+        ]
+      },
+      "id": "way/209697109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/209699393",
+        "addr:city": "Tacloban",
+        "addr:province": "Leyte",
+        "addr:street": "Real",
+        "addr:street:corner": "Lukban",
+        "amenity": "school",
+        "isced:level": "1",
+        "name": "Fernandez Central Elementary School",
+        "operator": "District Learning Center II Tacloban City Schools Division, DepEd",
+        "operator:type": "public",
+        "population:pupils:2012": "1906",
+        "population:pupils:2015": "2183",
+        "ref": "124249",
+        "source": "Department of Education, Philippines",
+        "source:date": "2012",
+        "start_date": "1935"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              125.0025874,
+              11.2346309
+            ],
+            [
+              125.0023843,
+              11.2336912
+            ],
+            [
+              125.0030201,
+              11.2335817
+            ],
+            [
+              125.0031946,
+              11.2335449
+            ],
+            [
+              125.0032748,
+              11.2335313
+            ],
+            [
+              125.0032949,
+              11.2335984
+            ],
+            [
+              125.0041673,
+              11.2335136
+            ],
+            [
+              125.0042259,
+              11.2338063
+            ],
+            [
+              125.004301,
+              11.2338036
+            ],
+            [
+              125.004403,
+              11.2342851
+            ],
+            [
+              125.0025874,
+              11.2346309
+            ]
+          ]
+        ]
+      },
+      "id": "way/209699393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/209699464",
+        "addr:city": "Tacloban",
+        "addr:province": "Leyte",
+        "addr:village": "T Claudio",
+        "amenity": "school",
+        "isced:level": "2",
+        "name": "Cirilo Roy Montejo National High School",
+        "old_name": "Panalaron National High School",
+        "operator": "District Learning Center I Tacloban City Schools Division, DepEd",
+        "operator:type": "public",
+        "population:pupils:2012": "1776",
+        "population:pupils:2015": "1776",
+        "ref": "303665",
+        "source": "Department of Education, Philippines",
+        "source:date": "2012",
+        "start_date": "2000"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              125.0048351,
+              11.2455065
+            ],
+            [
+              125.005043,
+              11.2456901
+            ],
+            [
+              125.0053344,
+              11.2458564
+            ],
+            [
+              125.0054722,
+              11.245977
+            ],
+            [
+              125.0056303,
+              11.2461734
+            ],
+            [
+              125.0051826,
+              11.2464637
+            ],
+            [
+              125.0052282,
+              11.2465452
+            ],
+            [
+              125.0051504,
+              11.2465768
+            ],
+            [
+              125.0046327,
+              11.2457297
+            ],
+            [
+              125.0045925,
+              11.2456771
+            ],
+            [
+              125.0048351,
+              11.2455065
+            ]
+          ]
+        ]
+      },
+      "id": "way/209699464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/209699488",
+        "addr:city": "Tacloban",
+        "addr:province": "Leyte",
+        "addr:street": "M.H. del Pilar Street",
+        "addr:village": "M.H. del Pilar",
+        "amenity": "school",
+        "isced:level": "1",
+        "name": "Panalaron Central Elementary School",
+        "operator": "District Learning Center IV Tacloban City Schools Division, DepEd",
+        "operator:type": "public",
+        "population:pupils:2012": "621",
+        "population:pupils:2015": "719",
+        "ref": "124240",
+        "source": "Department of Education, Philippines",
+        "source:date": "2012",
+        "start_date": "2000"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              125.004144,
+              11.246813
+            ],
+            [
+              125.0045865,
+              11.2463991
+            ],
+            [
+              125.0045557,
+              11.2463557
+            ],
+            [
+              125.004869,
+              11.2461735
+            ],
+            [
+              125.0051631,
+              11.2466038
+            ],
+            [
+              125.005019,
+              11.2467201
+            ],
+            [
+              125.005082,
+              11.2468009
+            ],
+            [
+              125.005144,
+              11.2467784
+            ],
+            [
+              125.0051885,
+              11.2469063
+            ],
+            [
+              125.0050063,
+              11.246943
+            ],
+            [
+              125.0044952,
+              11.2469727
+            ],
+            [
+              125.0044718,
+              11.246943
+            ],
+            [
+              125.0043084,
+              11.2470441
+            ],
+            [
+              125.004144,
+              11.246813
+            ]
+          ]
+        ]
+      },
+      "id": "way/209699488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/209699735",
+        "addr:city": "Tacloban",
+        "addr:province": "Leyte",
+        "addr:village": "Bliss Sagkahan",
+        "amenity": "school",
+        "evacuation_center": "yes",
+        "isced:level": "2",
+        "name": "Sagkahan National High School",
+        "operator": "District Learning Center I Tacloban City Schools Division, DepEd",
+        "operator:type": "public",
+        "phone": "+63 53 321 1282",
+        "population:pupils:2012": "2269",
+        "population:pupils:2015": "2269",
+        "ref": "303666",
+        "social_facility": "shelter",
+        "social_facility:for": "displaced",
+        "source": "Department of Education, Philippines",
+        "source:date": "2012",
+        "start_date": "2000",
+        "website": "https://plus.google.com/112744537864784254156/about?gl=us&hl=en"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              125.0022395,
+              11.2165381
+            ],
+            [
+              125.0022276,
+              11.2165097
+            ],
+            [
+              125.0022048,
+              11.2164394
+            ],
+            [
+              125.0021764,
+              11.2164156
+            ],
+            [
+              125.0018579,
+              11.2155741
+            ],
+            [
+              125.0028768,
+              11.215282
+            ],
+            [
+              125.0031976,
+              11.2162479
+            ],
+            [
+              125.0022395,
+              11.2165381
+            ]
+          ]
+        ]
+      },
+      "id": "way/209699735"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/209700035",
+        "addr:city": "Tacloban",
+        "addr:province": "Leyte",
+        "addr:street": "Champaca Street",
+        "amenity": "school",
+        "evacuation_center": "yes",
+        "isced:level": "1",
+        "name": "V & G Memorial Elementary School",
+        "operator": "District Learning Center VI Tacloban City Schools Division, DepEd",
+        "operator:type": "public",
+        "population:pupils:2012": "1062",
+        "population:pupils:2015": "1196",
+        "ref": "124230",
+        "social_facility": "shelter",
+        "social_facility:for": "displaced",
+        "source": "Department of Education, Philippines",
+        "source:date": "2012",
+        "start_date": "2000"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              124.9959542,
+              11.2054464
+            ],
+            [
+              124.9958852,
+              11.2046195
+            ],
+            [
+              124.9965573,
+              11.2045836
+            ],
+            [
+              124.9966849,
+              11.2053782
+            ],
+            [
+              124.9959542,
+              11.2054464
+            ]
+          ]
+        ]
+      },
+      "id": "way/209700035"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/209700059",
+        "addr:city": "Tacloban",
+        "addr:province": "Leyte",
+        "amenity": "school",
+        "emergency:amenity": "social_facility",
+        "emergency:social_facility": "shelter",
+        "emergency:social_facility:for": "displaced_people",
+        "isced:level": "0-1",
+        "name": "Caibaan Elementary School",
+        "operator": "District Learning Center I Tacloban City Schools Division, DepEd",
+        "operator:type": "public",
+        "population:pupils:2012": "992",
+        "population:pupils:2015": "1183",
+        "ref": "124224",
+        "social_facility": "shelter",
+        "social_facility:for": "displaced",
+        "source": "Department of Education, Philippines",
+        "source:date": "2012",
+        "start_date": "2000"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              124.9942229,
+              11.2097219
+            ],
+            [
+              124.9940032,
+              11.2091992
+            ],
+            [
+              124.995041,
+              11.2087796
+            ],
+            [
+              124.9952606,
+              11.2093023
+            ],
+            [
+              124.9950361,
+              11.209394
+            ],
+            [
+              124.9942229,
+              11.2097219
+            ]
+          ]
+        ]
+      },
+      "id": "way/209700059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/209700332",
+        "addr:city": "Tacloban",
+        "addr:province": "Leyte",
+        "addr:street": "Apitong",
+        "addr:village": "Apitong",
+        "amenity": "school",
+        "isced:level": "1",
+        "name": "Don Vicente Quintero Elementary School",
+        "operator": "District Learning Center V Tacloban City Schools Division, DepEd",
+        "operator:type": "public",
+        "population:pupils:2012": "585",
+        "population:pupils:2015": "667",
+        "ref": "124244",
+        "source": "Department of Education, Philippines",
+        "source:date": "2012",
+        "start_date": "2000"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              124.9915704,
+              11.2214313
+            ],
+            [
+              124.9912138,
+              11.2209691
+            ],
+            [
+              124.9918392,
+              11.2205526
+            ],
+            [
+              124.9921441,
+              11.2210302
+            ],
+            [
+              124.9915704,
+              11.2214313
+            ]
+          ]
+        ]
+      },
+      "id": "way/209700332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/209707861",
+        "addr:city": "Tacloban",
+        "addr:neighbourhood": "Fatima Village",
+        "addr:province": "Leyte",
+        "amenity": "school",
+        "isced:level": "1",
+        "name": "Dr. A.P. Bañez Memorial School",
+        "operator": "District Learning Center II Tacloban City Schools Division, DepEd",
+        "operator:type": "public",
+        "phone": "+63 53 323 3337",
+        "population:pupils:2012": "685",
+        "population:pupils:2015": "804",
+        "ref": "124245",
+        "source": "Department of Education, Philippines",
+        "source:date": "2012",
+        "start_date": "2000",
+        "website": "https://www.facebook.com/pages/DrAP-Banez-Elementary-School/600528479967858"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              125.0075361,
+              11.211764
+            ],
+            [
+              125.0074662,
+              11.2112839
+            ],
+            [
+              125.0073754,
+              11.2105528
+            ],
+            [
+              125.0076383,
+              11.2105172
+            ],
+            [
+              125.0077984,
+              11.2107482
+            ],
+            [
+              125.0079374,
+              11.2111595
+            ],
+            [
+              125.0080141,
+              11.2116977
+            ],
+            [
+              125.0075361,
+              11.211764
+            ]
+          ]
+        ]
+      },
+      "id": "way/209707861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/210142020",
+        "amenity": "school",
+        "name": "Leyte Progressive High School",
+        "source": "toy"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              124.9950369,
+              11.2462795
+            ],
+            [
+              124.9946193,
+              11.2460908
+            ],
+            [
+              124.994739,
+              11.2459236
+            ],
+            [
+              124.9945576,
+              11.2456986
+            ],
+            [
+              124.995043,
+              11.2451735
+            ],
+            [
+              124.9955043,
+              11.2454861
+            ],
+            [
+              124.9950369,
+              11.2462795
+            ]
+          ]
+        ]
+      },
+      "id": "way/210142020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/210142084",
+        "addr:city": "Tacloban",
+        "addr:province": "Leyte",
+        "amenity": "school",
+        "evacuation_center": "yes",
+        "isced:level": "1",
+        "name": "Anibong Elementary School",
+        "operator": "District Learning Center VI Tacloban City Schools Division, DepEd",
+        "operator:type": "public",
+        "population:pupils:2012": "1229",
+        "population:pupils:2015": "1387",
+        "ref": "124231",
+        "social_facility": "shelter",
+        "social_facility:for": "displaced",
+        "source": "Department of Education, Philippines",
+        "source:date": "2012",
+        "start_date": "1951"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              124.9898191,
+              11.252856
+            ],
+            [
+              124.9898681,
+              11.2528848
+            ],
+            [
+              124.9900036,
+              11.2529484
+            ],
+            [
+              124.9900124,
+              11.2529538
+            ],
+            [
+              124.9901543,
+              11.2530191
+            ],
+            [
+              124.9900712,
+              11.2531559
+            ],
+            [
+              124.98998,
+              11.2532033
+            ],
+            [
+              124.9896769,
+              11.2530875
+            ],
+            [
+              124.9898191,
+              11.252856
+            ]
+          ]
+        ]
+      },
+      "id": "way/210142084"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/210142123",
+        "addr:city": "Tacloban",
+        "addr:province": "Leyte",
+        "amenity": "school",
+        "isced:level": "1",
+        "name": "Bayanihan Elementary School",
+        "old_name": "Bayanihan Community School",
+        "operator": "District Learning Center II Tacloban City Schools Division, DepEd",
+        "operator:type": "public",
+        "population:pupils:2012": "376",
+        "population:pupils:2015": "431",
+        "ref": "124233",
+        "source": "Department of Education, Philippines",
+        "source:date": "2012",
+        "start_date": "2000",
+        "typhoon:reviewed": "cloud"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              124.9812534,
+              11.2466329
+            ],
+            [
+              124.9811025,
+              11.2464852
+            ],
+            [
+              124.9811468,
+              11.2461399
+            ],
+            [
+              124.9812648,
+              11.2461722
+            ],
+            [
+              124.9812875,
+              11.2461518
+            ],
+            [
+              124.9813224,
+              11.2461124
+            ],
+            [
+              124.9813654,
+              11.2461248
+            ],
+            [
+              124.9815807,
+              11.2462807
+            ],
+            [
+              124.981498,
+              11.2463814
+            ],
+            [
+              124.9814006,
+              11.2464777
+            ],
+            [
+              124.9813247,
+              11.2465599
+            ],
+            [
+              124.9812534,
+              11.2466329
+            ]
+          ]
+        ]
+      },
+      "id": "way/210142123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/210143438",
+        "addr:city": "Tacloban",
+        "addr:housenumber": "94",
+        "addr:province": "Leyte",
+        "addr:village": "Tigbao",
+        "amenity": "school",
+        "isced:level": "1",
+        "name": "Tigbao-Diit Elementary School",
+        "operator": "District Learning Center IV Tacloban City Schools Division, DepEd",
+        "operator:type": "public",
+        "population:pupils:2012": "836",
+        "population:pupils:2015": "931",
+        "ref": "124243",
+        "source": "Department of Education, Philippines",
+        "source:date": "2012",
+        "start_date": "1983"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              124.9687852,
+              11.2577306
+            ],
+            [
+              124.968898,
+              11.2577976
+            ],
+            [
+              124.9691155,
+              11.2578682
+            ],
+            [
+              124.9696183,
+              11.2579554
+            ],
+            [
+              124.9691805,
+              11.2586792
+            ],
+            [
+              124.9691044,
+              11.2589065
+            ],
+            [
+              124.9683238,
+              11.2581541
+            ],
+            [
+              124.9684624,
+              11.2580269
+            ],
+            [
+              124.9686141,
+              11.2578851
+            ],
+            [
+              124.9687852,
+              11.2577306
+            ]
+          ]
+        ]
+      },
+      "id": "way/210143438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/217729607",
+        "addr:city": "Tacloban",
+        "amenity": "school",
+        "name": "STCDC"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              125.0058509,
+              11.2409209
+            ],
+            [
+              125.0064225,
+              11.2404167
+            ],
+            [
+              125.0065728,
+              11.2405806
+            ],
+            [
+              125.0060011,
+              11.2410847
+            ],
+            [
+              125.0058509,
+              11.2409209
+            ]
+          ]
+        ]
+      },
+      "id": "way/217729607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/219848179",
+        "addr:city": "Tacloban",
+        "addr:province": "Leyte",
+        "addr:street": "Justice Romualdez Street",
+        "addr:village": "Juan Luna",
+        "amenity": "school",
+        "isced:level": "1",
+        "name": "Rizal Central School",
+        "operator": "District Learning Center I Tacloban City Schools Division, DepEd",
+        "operator:type": "public",
+        "population:pupils:2012": "2079",
+        "population:pupils:2015": "2337",
+        "ref": "124227",
+        "social_facility": "shelter",
+        "social_facility:for": "displaced",
+        "source": "Department of Education, Philippines",
+        "source:date": "2012",
+        "start_date": "1906"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              125.0059484,
+              11.2428998
+            ],
+            [
+              125.0053515,
+              11.2422322
+            ],
+            [
+              125.0056292,
+              11.2419943
+            ],
+            [
+              125.0062265,
+              11.2426587
+            ],
+            [
+              125.0059484,
+              11.2428998
+            ]
+          ]
+        ]
+      },
+      "id": "way/219848179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/229980662",
+        "amenity": "school",
+        "name": "St. Therese Educational Foundation of Tacloban Inc. (Campus 2)",
+        "source": "local knowledge"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              124.9841712,
+              11.2330171
+            ],
+            [
+              124.9832394,
+              11.2328878
+            ],
+            [
+              124.9833025,
+              11.2322707
+            ],
+            [
+              124.9843148,
+              11.2318035
+            ],
+            [
+              124.9846801,
+              11.2326283
+            ],
+            [
+              124.9841712,
+              11.2330171
+            ]
+          ]
+        ]
+      },
+      "id": "way/229980662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/229980663",
+        "amenity": "school",
+        "name": "St. Therese Educational Foundation of Tacloban Inc. (Campus 1)",
+        "source": "local knowledge"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              124.9833819,
+              11.2345961
+            ],
+            [
+              124.9831975,
+              11.2345006
+            ],
+            [
+              124.9832601,
+              11.2343497
+            ],
+            [
+              124.9831136,
+              11.2342857
+            ],
+            [
+              124.9834109,
+              11.2336389
+            ],
+            [
+              124.9838325,
+              11.2338016
+            ],
+            [
+              124.9839532,
+              11.2331046
+            ],
+            [
+              124.9841404,
+              11.2331367
+            ],
+            [
+              124.984096,
+              11.2333543
+            ],
+            [
+              124.9840417,
+              11.2339489
+            ],
+            [
+              124.983972,
+              11.2343909
+            ],
+            [
+              124.9837606,
+              11.2351783
+            ],
+            [
+              124.983457,
+              11.2351117
+            ],
+            [
+              124.9835589,
+              11.2346698
+            ],
+            [
+              124.9833819,
+              11.2345961
+            ]
+          ]
+        ]
+      },
+      "id": "way/229980663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/245223917",
+        "addr:city": "Tacloban",
+        "amenity": "school",
+        "building": "damaged",
+        "name": "UCCP",
+        "typhoon:damage": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              125.0051814,
+              11.2424824
+            ],
+            [
+              125.0052588,
+              11.2424144
+            ],
+            [
+              125.0053371,
+              11.2425
+            ],
+            [
+              125.0052597,
+              11.242568
+            ],
+            [
+              125.0051814,
+              11.2424824
+            ]
+          ]
+        ]
+      },
+      "id": "way/245223917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/245231986",
+        "addr:province": "Leyte",
+        "addr:town": "Alangalang",
+        "amenity": "school",
+        "isced:level": "0-1",
+        "name": "Tabangohay Elementary School",
+        "operator": "Alangalang I District of Leyte Schools Division, DepEd",
+        "operator:type": "public",
+        "population:pupils:2012": "111",
+        "population:pupils:2015": "139",
+        "ref": "120958",
+        "source": "Department of Education, Philippines",
+        "source:date": "2012",
+        "start_date": "1971"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              124.903869,
+              11.2837349
+            ],
+            [
+              124.9034526,
+              11.2837372
+            ],
+            [
+              124.9034494,
+              11.2831893
+            ],
+            [
+              124.9038658,
+              11.283187
+            ],
+            [
+              124.903869,
+              11.2837349
+            ]
+          ]
+        ]
+      },
+      "id": "way/245231986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/245292414",
+        "amenity": "school",
+        "building": "damaged",
+        "name": "Tacloban Angelicum Learning Center",
+        "source": "WorldView-2,DigitalGlobe,Nextview,2013/11/09",
+        "typhoon:damage": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              124.9946798,
+              11.2181906
+            ],
+            [
+              124.9945395,
+              11.2179088
+            ],
+            [
+              124.9945876,
+              11.2178857
+            ],
+            [
+              124.9945766,
+              11.2178635
+            ],
+            [
+              124.9945212,
+              11.21789
+            ],
+            [
+              124.9944937,
+              11.2178346
+            ],
+            [
+              124.994467,
+              11.2177811
+            ],
+            [
+              124.9944996,
+              11.2177654
+            ],
+            [
+              124.994431,
+              11.2176277
+            ],
+            [
+              124.9943992,
+              11.2176429
+            ],
+            [
+              124.9943625,
+              11.2175692
+            ],
+            [
+              124.9944564,
+              11.2175243
+            ],
+            [
+              124.9944765,
+              11.2175646
+            ],
+            [
+              124.9945095,
+              11.2175488
+            ],
+            [
+              124.9946044,
+              11.2177394
+            ],
+            [
+              124.994565,
+              11.2177583
+            ],
+            [
+              124.9945755,
+              11.2177793
+            ],
+            [
+              124.994597,
+              11.217769
+            ],
+            [
+              124.9946032,
+              11.2177814
+            ],
+            [
+              124.9946211,
+              11.2177728
+            ],
+            [
+              124.9946727,
+              11.2178764
+            ],
+            [
+              124.9946501,
+              11.2178872
+            ],
+            [
+              124.9947778,
+              11.2181436
+            ],
+            [
+              124.9946798,
+              11.2181906
+            ]
+          ]
+        ]
+      },
+      "id": "way/245292414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/245297848",
+        "amenity": "school",
+        "name": "Our Lady of Lourdes School"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              124.9977917,
+              11.2067232
+            ],
+            [
+              124.9974511,
+              11.2067654
+            ],
+            [
+              124.9974415,
+              11.2066904
+            ],
+            [
+              124.9974213,
+              11.2066929
+            ],
+            [
+              124.9974107,
+              11.2066108
+            ],
+            [
+              124.9976904,
+              11.2065761
+            ],
+            [
+              124.9977014,
+              11.206661
+            ],
+            [
+              124.9977824,
+              11.206651
+            ],
+            [
+              124.9977917,
+              11.2067232
+            ]
+          ]
+        ]
+      },
+      "id": "way/245297848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/245434344",
+        "amenity": "school",
+        "building": "school",
+        "name": "Einstein School",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              125.0022895,
+              11.2433411
+            ],
+            [
+              125.0021501,
+              11.2431645
+            ],
+            [
+              125.0023563,
+              11.2431331
+            ],
+            [
+              125.0024436,
+              11.2432137
+            ],
+            [
+              125.0022895,
+              11.2433411
+            ]
+          ]
+        ]
+      },
+      "id": "way/245434344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/245847635",
+        "addr:city": "Tacloban",
+        "addr:housenumber": "93",
+        "addr:province": "Leyte",
+        "addr:village": "Bagacay",
+        "amenity": "school",
+        "isced:level": "1",
+        "name": "Bagacay Elementary School",
+        "old_name": "Bagacay Community School",
+        "operator": "District Learning Center IV Tacloban City Schools Division, DepEd",
+        "operator:type": "public",
+        "population:pupils:2012": "553",
+        "population:pupils:2015": "644",
+        "ref": "124253",
+        "source": "Department of Education, Philippines",
+        "source:date": "2012",
+        "start_date": "1938"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              124.9589645,
+              11.2834846
+            ],
+            [
+              124.9578746,
+              11.2831872
+            ],
+            [
+              124.9578439,
+              11.2829847
+            ],
+            [
+              124.9579493,
+              11.282683
+            ],
+            [
+              124.9590436,
+              11.2829459
+            ],
+            [
+              124.9589645,
+              11.2834846
+            ]
+          ]
+        ]
+      },
+      "id": "way/245847635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/246124503",
+        "amenity": "school",
+        "building": "damaged",
+        "name": "ACLC",
+        "source": "WorldView-2,DigitalGlobe,Nextview,2013/11/09",
+        "typhoon:damage": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              125.0042237,
+              11.2384463
+            ],
+            [
+              125.0041209,
+              11.2382425
+            ],
+            [
+              125.0042774,
+              11.2381666
+            ],
+            [
+              125.0043802,
+              11.2383704
+            ],
+            [
+              125.0042237,
+              11.2384463
+            ]
+          ]
+        ]
+      },
+      "id": "way/246124503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/315904642",
+        "addr:city": "Tacloban",
+        "addr:province": "Leyte",
+        "addr:street": "Mango Lane",
+        "amenity": "school",
+        "evacuation_center": "yes",
+        "isced:level": "2",
+        "name": "Marasbaras National High School",
+        "operator": "District Learning Center I Tacloban City Schools Division, DepEd",
+        "operator:type": "public",
+        "population:pupils:2012": "925",
+        "population:pupils:2015": "925",
+        "ref": "303664",
+        "social_facility": "shelter",
+        "social_facility:for": "displaced",
+        "source": "Department of Education, Philippines",
+        "source:date": "2012",
+        "start_date": "1992"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              125.007028,
+              11.1961143
+            ],
+            [
+              125.0070638,
+              11.1953824
+            ],
+            [
+              125.0071822,
+              11.1952998
+            ],
+            [
+              125.0074244,
+              11.1953515
+            ],
+            [
+              125.0080264,
+              11.1955461
+            ],
+            [
+              125.0081726,
+              11.1956766
+            ],
+            [
+              125.0082164,
+              11.195827
+            ],
+            [
+              125.0082584,
+              11.1961052
+            ],
+            [
+              125.007028,
+              11.1961143
+            ]
+          ]
+        ]
+      },
+      "id": "way/315904642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/359961488",
+        "addr:city": "Tacloban City",
+        "addr:postcode": "6500",
+        "addr:street": "Calanipawan",
+        "amenity": "school",
+        "name": "Asian Development Foundation (Basic Ed Campus [Kindergarten, Elementary, High School, and TechVoc)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              125.0014884,
+              11.2168154
+            ],
+            [
+              125.0014778,
+              11.2167895
+            ],
+            [
+              125.0015255,
+              11.2167708
+            ],
+            [
+              125.001536,
+              11.2167966
+            ],
+            [
+              125.0014884,
+              11.2168154
+            ]
+          ]
+        ]
+      },
+      "id": "way/359961488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/504623254",
+        "addr:place": "Kauswagan",
+        "addr:province": "Leyte",
+        "addr:quarter": "Barayong",
+        "addr:town": "Palo",
+        "amenity": "school",
+        "isced:level": "2",
+        "name": "Kauswagan National High School",
+        "operator": "Palo II District of Leyte Schools Division, DepEd",
+        "operator:type": "public",
+        "population:pupils:2012": "98",
+        "population:pupils:2015": "98",
+        "ref": "303384",
+        "source": "Department of Education, Philippines",
+        "source:date": "2012",
+        "start_date": "1979"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              124.9753797,
+              11.2001005
+            ],
+            [
+              124.9751115,
+              11.2000531
+            ],
+            [
+              124.9750257,
+              11.1999742
+            ],
+            [
+              124.9753207,
+              11.1994111
+            ],
+            [
+              124.9757123,
+              11.1987744
+            ],
+            [
+              124.9760449,
+              11.1988901
+            ],
+            [
+              124.9755997,
+              11.1995953
+            ],
+            [
+              124.9753797,
+              11.2001005
+            ]
+          ]
+        ]
+      },
+      "id": "way/504623254"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/504623255",
+        "addr:place": "Barayong",
+        "addr:province": "Leyte",
+        "addr:town": "Palo",
+        "amenity": "school",
+        "isced:level": "0-1",
+        "name": "Barayong Elementary School",
+        "operator": "Palo II District of Leyte Schools Division, DepEd",
+        "operator:type": "public",
+        "ref": "191517",
+        "source": "Department of Education, Philippines"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              124.9677824,
+              11.2063112
+            ],
+            [
+              124.9682169,
+              11.2060113
+            ],
+            [
+              124.9685441,
+              11.2062796
+            ],
+            [
+              124.9690966,
+              11.2061165
+            ],
+            [
+              124.9691986,
+              11.2063901
+            ],
+            [
+              124.968929,
+              11.2064914
+            ],
+            [
+              124.9690095,
+              11.2067295
+            ],
+            [
+              124.9683832,
+              11.2069848
+            ],
+            [
+              124.9681525,
+              11.2064849
+            ],
+            [
+              124.9679057,
+              11.206548
+            ],
+            [
+              124.9677824,
+              11.2063112
+            ]
+          ]
+        ]
+      },
+      "id": "way/504623255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/770235836",
+        "addr:city": "Tacloban",
+        "addr:province": "Leyte",
+        "addr:village": "Bagacay",
+        "amenity": "school",
+        "isced:level": "2",
+        "name": "Tacloban City National High School",
+        "old_name": "Tacloban National High School",
+        "operator": "District Learning Center I Tacloban City Schools Division, DepEd",
+        "operator:type": "public",
+        "population:pupils:2012": "1510",
+        "population:pupils:2015": "1510",
+        "ref": "303670",
+        "source": "Department of Education, Philippines",
+        "source:date": "2012",
+        "start_date": "1976"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              124.9586959,
+              11.2877705
+            ],
+            [
+              124.9587952,
+              11.2870393
+            ],
+            [
+              124.9597098,
+              11.2870735
+            ],
+            [
+              124.9598533,
+              11.2878863
+            ],
+            [
+              124.9586959,
+              11.2877705
+            ]
+          ]
+        ]
+      },
+      "id": "way/770235836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/782584347",
+        "addr:city": "Tacloban",
+        "addr:place": "Barangay 98",
+        "addr:province": "Leyte",
+        "amenity": "school",
+        "isced:level": "1",
+        "name": "Camansihay Elementary School",
+        "old_name": "Camansihay Community School",
+        "operator": "District Learning Center V Tacloban City Schools Division, DepEd",
+        "operator:type": "public",
+        "population:pupils:2012": "247",
+        "population:pupils:2015": "281",
+        "ref": "124234",
+        "source": "Department of Education, Philippines",
+        "source:date": "2012",
+        "start_date": "1962"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              124.9410932,
+              11.3026695
+            ],
+            [
+              124.9415307,
+              11.3024415
+            ],
+            [
+              124.941761,
+              11.3023592
+            ],
+            [
+              124.9421934,
+              11.3028734
+            ],
+            [
+              124.9416558,
+              11.303252
+            ],
+            [
+              124.9413517,
+              11.3029492
+            ],
+            [
+              124.9410932,
+              11.3026695
+            ]
+          ]
+        ]
+      },
+      "id": "way/782584347"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/789191828",
+        "addr:city": "Tacloban",
+        "addr:province": "Leyte",
+        "addr:village": "Bliss 2",
+        "amenity": "school",
+        "isced:level": "1",
+        "name": "BLISS Elementary School",
+        "operator": "District Learning Center I Tacloban City Schools Division, DepEd",
+        "operator:type": "public",
+        "population:pupils:2012": "402",
+        "population:pupils:2015": "467",
+        "ref": "124254",
+        "source": "Department of Education, Philippines",
+        "source:date": "2012",
+        "start_date": "1981"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              124.9735143,
+              11.2486731
+            ],
+            [
+              124.9733332,
+              11.2485876
+            ],
+            [
+              124.9731555,
+              11.2481594
+            ],
+            [
+              124.9733127,
+              11.2480671
+            ],
+            [
+              124.9735678,
+              11.2480717
+            ],
+            [
+              124.9737261,
+              11.2481685
+            ],
+            [
+              124.9735143,
+              11.2486731
+            ]
+          ]
+        ]
+      },
+      "id": "way/789191828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/791282941",
+        "addr:city": "Tacloban",
+        "addr:province": "Leyte",
+        "addr:village": "Barangay 79",
+        "amenity": "school",
+        "isced:level": "1",
+        "name": "Marasbaras Elementary School",
+        "operator": "District Learning Center V Tacloban City Schools Division, DepEd",
+        "operator:type": "public",
+        "population:pupils:2012": "881",
+        "population:pupils:2015": "981",
+        "ref": "124247",
+        "source": "Department of Education, Philippines",
+        "source:date": "2012",
+        "start_date": "2000"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              125.0066788,
+              11.1998014
+            ],
+            [
+              125.0072913,
+              11.1996156
+            ],
+            [
+              125.0075017,
+              11.2002501
+            ],
+            [
+              125.0068899,
+              11.2004444
+            ],
+            [
+              125.0066788,
+              11.1998014
+            ]
+          ]
+        ]
+      },
+      "id": "way/791282941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/791286024",
+        "addr:city": "Tacloban",
+        "addr:neighbourhood": "Fishermans Village",
+        "addr:postcode": "6500",
+        "addr:province": "Leyte",
+        "addr:street": "San Jose Road",
+        "amenity": "school",
+        "isced:level": "1",
+        "name": "Fishermen's Village Elementary School",
+        "name:en": "Fisherman's Village Elementary School",
+        "name:war": "Eskwelahan Elementarya han Fisherman's Village",
+        "old_name": "Fisherman Village Primary School",
+        "operator": "District Learning Center V, Tacloban City School Division, DepEd",
+        "operator:type": "public",
+        "population:pupils:2012": "264",
+        "population:pupils:2015": "307",
+        "ref": "124246",
+        "source": "Department of Education, Philippines",
+        "source:date": "2012",
+        "start_date": "1999"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              125.0215964,
+              11.2175965
+            ],
+            [
+              125.0218204,
+              11.2172784
+            ],
+            [
+              125.0218821,
+              11.2172605
+            ],
+            [
+              125.0222804,
+              11.2175507
+            ],
+            [
+              125.0222572,
+              11.2175903
+            ],
+            [
+              125.0217923,
+              11.2177399
+            ],
+            [
+              125.0215964,
+              11.2175965
+            ]
+          ]
+        ]
+      },
+      "id": "way/791286024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/791294938",
+        "addr:city": "Tacloban",
+        "addr:province": "Leyte",
+        "addr:village": "Anibong",
+        "amenity": "school",
+        "isced:level": "2",
+        "name": "Anibong Night High School",
+        "operator": "District Learning Center I Tacloban City Schools Division, DepEd",
+        "operator:type": "public",
+        "population:pupils:2012": "171",
+        "population:pupils:2015": "171",
+        "ref": "314006",
+        "source": "Department of Education, Philippines",
+        "source:date": "2012",
+        "start_date": "2011"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              124.9898188,
+              11.252841
+            ],
+            [
+              124.9903271,
+              11.2520177
+            ],
+            [
+              124.9905846,
+              11.2521742
+            ],
+            [
+              124.9905546,
+              11.2522345
+            ],
+            [
+              124.9901514,
+              11.2529989
+            ],
+            [
+              124.9898188,
+              11.252841
+            ]
+          ]
+        ]
+      },
+      "id": "way/791294938"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/823779059",
+        "amenity": "school",
+        "name": "St. Scholastica College Tacloban"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              124.99512,
+              11.1881601
+            ],
+            [
+              124.99524,
+              11.1879322
+            ],
+            [
+              124.9956844,
+              11.1881157
+            ],
+            [
+              124.9958346,
+              11.1877628
+            ],
+            [
+              124.9960311,
+              11.1878368
+            ],
+            [
+              124.9962892,
+              11.1880666
+            ],
+            [
+              124.9969939,
+              11.188347
+            ],
+            [
+              124.9974405,
+              11.1885476
+            ],
+            [
+              124.9975791,
+              11.1886218
+            ],
+            [
+              124.9979509,
+              11.1885692
+            ],
+            [
+              124.9979159,
+              11.1890807
+            ],
+            [
+              124.9976749,
+              11.1893258
+            ],
+            [
+              124.996714,
+              11.1888631
+            ],
+            [
+              124.9956631,
+              11.188399
+            ],
+            [
+              124.99512,
+              11.1881601
+            ]
+          ]
+        ]
+      },
+      "id": "way/823779059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/906026464",
+        "addr:city": "Tacloban",
+        "addr:province": "Leyte",
+        "addr:village": "Cabalawan",
+        "amenity": "school",
+        "isced:level": "0-1",
+        "name": "Cabalawan Elementary School",
+        "operator": "District Learning Center III Tacloban City Schools Division, DepEd",
+        "operator:type": "public",
+        "population:pupils:2012": "494",
+        "population:pupils:2015": "576",
+        "ref": "124255",
+        "source": "Department of Education, Philippines",
+        "source:date": "2012",
+        "start_date": "1930"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              124.9636902,
+              11.2983929
+            ],
+            [
+              124.9648355,
+              11.2982219
+            ],
+            [
+              124.9649844,
+              11.2986954
+            ],
+            [
+              124.9639611,
+              11.2988085
+            ],
+            [
+              124.9636902,
+              11.2983929
+            ]
+          ]
+        ]
+      },
+      "id": "way/906026464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/940227869",
+        "addr:city": "Tacloban",
+        "addr:province": "Leyte",
+        "amenity": "school",
+        "isced:level": "1",
+        "name": "Old Kawayan Elementary School",
+        "old_name": "Old Kawayan Primary School",
+        "operator": "District Learning Center VI Tacloban City Schools Division, DepEd",
+        "operator:type": "public",
+        "population:pupils:2012": "79",
+        "population:pupils:2015": "94",
+        "ref": "124237",
+        "source": "Department of Education, Philippines",
+        "source:date": "2012",
+        "start_date": "2002"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              124.9698537,
+              11.3363704
+            ],
+            [
+              124.969927,
+              11.3361476
+            ],
+            [
+              124.969876,
+              11.3361076
+            ],
+            [
+              124.9699552,
+              11.3360063
+            ],
+            [
+              124.9701588,
+              11.3361558
+            ],
+            [
+              124.970017,
+              11.3364288
+            ],
+            [
+              124.9698537,
+              11.3363704
+            ]
+          ]
+        ]
+      },
+      "id": "way/940227869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/940228635",
+        "addr:city": "Tacloban",
+        "addr:province": "Leyte",
+        "addr:village": "New Kawayan",
+        "amenity": "school",
+        "isced:level": "1",
+        "name": "Lucio Vivero Elementary School",
+        "operator": "District Learning Center VI Tacloban City Schools Division, DepEd",
+        "operator:type": "public",
+        "population:pupils:2012": "620",
+        "population:pupils:2015": "709",
+        "ref": "124235",
+        "source": "Department of Education, Philippines",
+        "source:date": "2012",
+        "start_date": "2000"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              124.9491459,
+              11.3327763
+            ],
+            [
+              124.9485464,
+              11.3327193
+            ],
+            [
+              124.9485412,
+              11.3325439
+            ],
+            [
+              124.948398,
+              11.3322803
+            ],
+            [
+              124.9483058,
+              11.3319693
+            ],
+            [
+              124.9482457,
+              11.3319445
+            ],
+            [
+              124.9482547,
+              11.3317743
+            ],
+            [
+              124.9485017,
+              11.3317806
+            ],
+            [
+              124.9492154,
+              11.3318334
+            ],
+            [
+              124.9491784,
+              11.3327398
+            ],
+            [
+              124.9491459,
+              11.3327763
+            ]
+          ]
+        ]
+      },
+      "id": "way/940228635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/940228636",
+        "addr:city": "Tacloban",
+        "addr:province": "Leyte",
+        "addr:village": "New Kawayan",
+        "amenity": "school",
+        "isced:level": "2-3",
+        "name": "Northern Tacloban City National High School",
+        "operator": "District Learning Center IV Tacloban City Schools Division, DepEd",
+        "operator:type": "public",
+        "population:pupils:2012": "578",
+        "population:pupils:2015": "578",
+        "ref": "314004",
+        "source": "Department of Education, Philippines",
+        "source:date": "2012",
+        "start_date": "2003"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              124.9501648,
+              11.3316384
+            ],
+            [
+              124.9493536,
+              11.3316737
+            ],
+            [
+              124.9493842,
+              11.3303822
+            ],
+            [
+              124.9499483,
+              11.3304502
+            ],
+            [
+              124.9502989,
+              11.330488
+            ],
+            [
+              124.9503394,
+              11.3311559
+            ],
+            [
+              124.9501648,
+              11.3316384
+            ]
+          ]
+        ]
+      },
+      "id": "way/940228636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/940228986",
+        "addr:city": "Tacloban",
+        "addr:province": "Leyte",
+        "addr:village": "San Roque",
+        "amenity": "school",
+        "isced:level": "1",
+        "name": "San Roque Elementary School",
+        "operator": "District Learning Center II Tacloban City Schools Division, DepEd",
+        "operator:type": "public",
+        "population:pupils:2012": "144",
+        "population:pupils:2015": "167",
+        "ref": "124251",
+        "source": "Department of Education, Philippines",
+        "source:date": "2012",
+        "start_date": "1962"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              124.9429329,
+              11.276106
+            ],
+            [
+              124.9430148,
+              11.2761356
+            ],
+            [
+              124.9430544,
+              11.2764068
+            ],
+            [
+              124.9432607,
+              11.2764654
+            ],
+            [
+              124.943246,
+              11.2768047
+            ],
+            [
+              124.9431029,
+              11.2768217
+            ],
+            [
+              124.9429917,
+              11.2770104
+            ],
+            [
+              124.9426073,
+              11.2769101
+            ],
+            [
+              124.9429329,
+              11.276106
+            ]
+          ]
+        ]
+      },
+      "id": "way/940228986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/940229222",
+        "addr:city": "Tacloban",
+        "addr:neighbourhood": "Scandinavian Village",
+        "addr:province": "Leyte",
+        "amenity": "school",
+        "isced:level": "2-3",
+        "name": "Scandinavian National High School",
+        "operator": "District Learning Center I Tacloban City Schools Division, DepEd",
+        "operator:type": "public",
+        "population:pupils:2012": "272",
+        "population:pupils:2015": "272",
+        "ref": "314005",
+        "source": "Department of Education, Philippines",
+        "source:date": "2012",
+        "start_date": "2012"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              124.9512774,
+              11.2712138
+            ],
+            [
+              124.9510553,
+              11.271105
+            ],
+            [
+              124.9511892,
+              11.2706441
+            ],
+            [
+              124.9515775,
+              11.2706909
+            ],
+            [
+              124.9517679,
+              11.2706286
+            ],
+            [
+              124.9519412,
+              11.2704413
+            ],
+            [
+              124.9521337,
+              11.2708256
+            ],
+            [
+              124.9512774,
+              11.2712138
+            ]
+          ]
+        ]
+      },
+      "id": "way/940229222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/940229223",
+        "amenity": "school",
+        "name": "Scandinavian Elementary School"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              124.9510437,
+              11.2711717
+            ],
+            [
+              124.9512992,
+              11.271399
+            ],
+            [
+              124.9513222,
+              11.271718
+            ],
+            [
+              124.9512434,
+              11.2719309
+            ],
+            [
+              124.9509557,
+              11.2719454
+            ],
+            [
+              124.9509125,
+              11.2716436
+            ],
+            [
+              124.9509342,
+              11.2714997
+            ],
+            [
+              124.9509715,
+              11.2712723
+            ],
+            [
+              124.9510437,
+              11.2711717
+            ]
+          ]
+        ]
+      },
+      "id": "way/940229223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/940229293",
+        "addr:city": "Tacloban",
+        "addr:neighbourhood": "Mercyville",
+        "addr:province": "Leyte",
+        "amenity": "school",
+        "isced:level": "1",
+        "name": "Mercyville Elementary School",
+        "old_name": "Mercyville Primary School",
+        "operator": "District Learning Center IV Tacloban City Schools Division, DepEd",
+        "operator:type": "public",
+        "population:pupils:2012": "394",
+        "population:pupils:2015": "479",
+        "ref": "124236",
+        "source": "Department of Education, Philippines",
+        "source:date": "2012",
+        "start_date": "2001"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              124.9632159,
+              11.2644176
+            ],
+            [
+              124.963189,
+              11.264698
+            ],
+            [
+              124.9630485,
+              11.2646489
+            ],
+            [
+              124.9626586,
+              11.264369
+            ],
+            [
+              124.96273,
+              11.2643258
+            ],
+            [
+              124.9628498,
+              11.2642533
+            ],
+            [
+              124.9630011,
+              11.264371
+            ],
+            [
+              124.9631153,
+              11.2643958
+            ],
+            [
+              124.9632159,
+              11.2644176
+            ]
+          ]
+        ]
+      },
+      "id": "way/940229293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/940231035",
+        "addr:city": "Tacloban",
+        "addr:postcode": "6500",
+        "addr:province": "Leyte",
+        "addr:street": "Purok 1",
+        "addr:village": "Palanog",
+        "amenity": "school",
+        "isced:level": "1",
+        "name": "Palanog Elementary School",
+        "name:en": "Palanog Elementary School",
+        "operator": "District Learning Center III Tacloban City Schools Division, DepEd",
+        "operator:type": "public",
+        "population:pupils:2012": "697",
+        "population:pupils:2015": "804",
+        "ref": "124238",
+        "source": "Department of Education, Philippines",
+        "source:date": "2012",
+        "start_date": "1967"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              124.9486199,
+              11.2552823
+            ],
+            [
+              124.9483879,
+              11.2552526
+            ],
+            [
+              124.9482858,
+              11.2552922
+            ],
+            [
+              124.9480767,
+              11.2548431
+            ],
+            [
+              124.9479314,
+              11.2545256
+            ],
+            [
+              124.9479098,
+              11.2543907
+            ],
+            [
+              124.9483464,
+              11.2542597
+            ],
+            [
+              124.9485703,
+              11.2547764
+            ],
+            [
+              124.9487351,
+              11.2551134
+            ],
+            [
+              124.9486199,
+              11.2552823
+            ]
+          ]
+        ]
+      },
+      "id": "way/940231035"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/940231723",
+        "addr:city": "Tacloban",
+        "addr:province": "Leyte",
+        "addr:village": "Basper",
+        "amenity": "school",
+        "education_program": "specialized_education",
+        "isced:level": "2-3",
+        "name": "Tacloban National Agricultural School",
+        "operator": "District Learning Center III Tacloban City Schools Division, DepEd",
+        "operator:type": "public",
+        "population:pupils:2012": "654",
+        "population:pupils:2015": "654",
+        "ref": "303669",
+        "source": "Department of Education, Philippines",
+        "source:date": "2012",
+        "specialized_education": "agriculture",
+        "start_date": "1995"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              124.9623942,
+              11.2506738
+            ],
+            [
+              124.9623246,
+              11.2506938
+            ],
+            [
+              124.9621429,
+              11.2505937
+            ],
+            [
+              124.9624436,
+              11.2494752
+            ],
+            [
+              124.9627716,
+              11.2489176
+            ],
+            [
+              124.9629428,
+              11.2484609
+            ],
+            [
+              124.9630816,
+              11.2481887
+            ],
+            [
+              124.9633657,
+              11.2480269
+            ],
+            [
+              124.963905,
+              11.248217
+            ],
+            [
+              124.9639526,
+              11.2485313
+            ],
+            [
+              124.9644427,
+              11.2487992
+            ],
+            [
+              124.9644543,
+              11.2489801
+            ],
+            [
+              124.9643592,
+              11.2494088
+            ],
+            [
+              124.9637839,
+              11.2497586
+            ],
+            [
+              124.9630781,
+              11.2506505
+            ],
+            [
+              124.9630007,
+              11.2505976
+            ],
+            [
+              124.9627785,
+              11.2508621
+            ],
+            [
+              124.9623942,
+              11.2506738
+            ]
+          ]
+        ]
+      },
+      "id": "way/940231723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/940231823",
+        "addr:city": "Tacloban",
+        "addr:province": "Leyte",
+        "addr:village": "Upper Nula-Tula",
+        "amenity": "school",
+        "isced:level": "1",
+        "name": "Nula Tula Elementary School",
+        "operator": "District Learning Center V Tacloban City Schools Division, DepEd",
+        "operator:type": "public",
+        "population:pupils:2012": "412",
+        "population:pupils:2015": "488",
+        "ref": "124258",
+        "source": "Department of Education, Philippines",
+        "source:date": "2012",
+        "start_date": "1976"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              124.9725007,
+              11.2507786
+            ],
+            [
+              124.9720601,
+              11.2509907
+            ],
+            [
+              124.9718411,
+              11.2505143
+            ],
+            [
+              124.9723636,
+              11.2504006
+            ],
+            [
+              124.9725007,
+              11.2507786
+            ]
+          ]
+        ]
+      },
+      "id": "way/940231823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/940231958",
+        "addr:city": "Tacloban",
+        "addr:province": "Leyte",
+        "addr:village": "Salvacion",
+        "amenity": "school",
+        "isced:level": "1",
+        "name": "Salvacion Elementary School",
+        "operator": "District Learning Center I Tacloban City Schools Division, DepEd",
+        "operator:type": "public",
+        "population:pupils:2012": "392",
+        "population:pupils:2015": "442",
+        "ref": "124248",
+        "source": "Department of Education, Philippines",
+        "source:date": "2012",
+        "start_date": "2000"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              124.9606519,
+              11.2350904
+            ],
+            [
+              124.9605247,
+              11.2348734
+            ],
+            [
+              124.9610069,
+              11.2346015
+            ],
+            [
+              124.9611341,
+              11.2348186
+            ],
+            [
+              124.9607104,
+              11.2350574
+            ],
+            [
+              124.9606519,
+              11.2350904
+            ]
+          ]
+        ]
+      },
+      "id": "way/940231958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/940232160",
+        "addr:city": "Tacloban",
+        "addr:province": "Leyte",
+        "amenity": "school",
+        "isced:level": "1",
+        "name": "Judge Antonio R. Montilla, Sr. Elementary School",
+        "old_name": "Abucay Community School",
+        "operator": "District Learning Center II Tacloban City Schools Division, DepEd",
+        "operator:type": "public",
+        "population:pupils:2012": "767",
+        "population:pupils:2015": "892",
+        "ref": "124225",
+        "source": "Department of Education, Philippines",
+        "source:date": "2012",
+        "start_date": "1971"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              124.9847551,
+              11.236633
+            ],
+            [
+              124.9846274,
+              11.2366786
+            ],
+            [
+              124.9845056,
+              11.2366157
+            ],
+            [
+              124.9839488,
+              11.2363298
+            ],
+            [
+              124.9845385,
+              11.2359177
+            ],
+            [
+              124.9849453,
+              11.2363921
+            ],
+            [
+              124.9847965,
+              11.236542
+            ],
+            [
+              124.9847551,
+              11.236633
+            ]
+          ]
+        ]
+      },
+      "id": "way/940232160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/940232780",
+        "addr:city": "Tacloban",
+        "addr:province": "Leyte",
+        "addr:village": "San Isidro",
+        "amenity": "school",
+        "isced:level": "1",
+        "name": "B. Bulante Elementary School",
+        "operator": "District Learning Center III Tacloban City Schools Division, DepEd",
+        "operator:type": "public",
+        "population:pupils:2012": "298",
+        "population:pupils:2015": "354",
+        "ref": "124252",
+        "source": "Department of Education, Philippines",
+        "source:date": "2012",
+        "start_date": "2000"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              124.9524881,
+              11.3164333
+            ],
+            [
+              124.952416,
+              11.3162064
+            ],
+            [
+              124.9525077,
+              11.3156856
+            ],
+            [
+              124.9528022,
+              11.3156104
+            ],
+            [
+              124.9527636,
+              11.3153499
+            ],
+            [
+              124.9530709,
+              11.3153034
+            ],
+            [
+              124.9532298,
+              11.3161099
+            ],
+            [
+              124.9524881,
+              11.3164333
+            ]
+          ]
+        ]
+      },
+      "id": "way/940232780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/941181302",
+        "addr:city": "Tacloban",
+        "addr:neighbourhood": "Paglaum",
+        "addr:province": "Leyte",
+        "addr:village": "Barangay 103-A",
+        "amenity": "school",
+        "isced:level": "2-3",
+        "name": "Antonio Balmes National High School",
+        "old_name": "Lorenzo Daa Integrated Memorial School",
+        "operator": "District Learning Center I Tacloban City Schools Division, DepEd",
+        "operator:type": "public",
+        "population:pupils:2012": "212",
+        "population:pupils:2015": "212",
+        "ref": "314003",
+        "source": "Department of Education, Philippines",
+        "source:date": "2012",
+        "start_date": "2000"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              124.920278,
+              11.2604056
+            ],
+            [
+              124.9208638,
+              11.2598107
+            ],
+            [
+              124.9212324,
+              11.2603715
+            ],
+            [
+              124.9211415,
+              11.2605998
+            ],
+            [
+              124.9208608,
+              11.2606705
+            ],
+            [
+              124.9204622,
+              11.2605218
+            ],
+            [
+              124.920278,
+              11.2604056
+            ]
+          ]
+        ]
+      },
+      "id": "way/941181302"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1004613191",
+        "addr:city": "Tacloban",
+        "addr:neighbourhood": "V&G Subdivision Phase 4",
+        "addr:province": "Leyte",
+        "amenity": "school",
+        "description": "Created by Republic Act № 10290, November 14, 2012",
+        "isced:level": "2-3",
+        "name": "V & G Memorial Elementary School",
+        "operator": "District Learning Center VI Tacloban City Schools Division, DepEd",
+        "operator:type": "public",
+        "population:pupils:2012": "1062",
+        "population:pupils:2015": "1196",
+        "ref": "330503",
+        "source": "Department of Education, Philippines",
+        "source:date": "2012",
+        "start_date": "2000"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              124.9986689,
+              11.1991162
+            ],
+            [
+              124.9988472,
+              11.1997832
+            ],
+            [
+              124.9986246,
+              11.1998266
+            ],
+            [
+              124.998465,
+              11.1996069
+            ],
+            [
+              124.998052,
+              11.1994727
+            ],
+            [
+              124.9978991,
+              11.1996977
+            ],
+            [
+              124.997474,
+              11.1995293
+            ],
+            [
+              124.9979889,
+              11.1990333
+            ],
+            [
+              124.9984074,
+              11.1992149
+            ],
+            [
+              124.9986689,
+              11.1991162
+            ]
+          ]
+        ]
+      },
+      "id": "way/1004613191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1065110669",
+        "amenity": "school",
+        "name": "Manlurip Elementary School",
+        "ref": "195001"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              125.0164399,
+              11.1971021
+            ],
+            [
+              125.0159705,
+              11.1971547
+            ],
+            [
+              125.0157224,
+              11.1970153
+            ],
+            [
+              125.0157022,
+              11.1967456
+            ],
+            [
+              125.0159208,
+              11.1964982
+            ],
+            [
+              125.0163285,
+              11.1968219
+            ],
+            [
+              125.016527,
+              11.1969968
+            ],
+            [
+              125.0164399,
+              11.1971021
+            ]
+          ]
+        ]
+      },
+      "id": "way/1065110669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2271269077",
+        "amenity": "school",
+        "check_date": "2023-05-17",
+        "name": "ACLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.0022405,
+          11.2438622
+        ]
+      },
+      "id": "node/2271269077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2271269576",
+        "amenity": "school",
+        "name": "Datamex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.0013444,
+          11.2443405
+        ]
+      },
+      "id": "node/2271269576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2541972747",
+        "amenity": "school",
+        "name": "CIE British School Tacloban"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.9861648,
+          11.2357695
+        ]
+      },
+      "id": "node/2541972747"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3391937203",
+        "addr:city": "Tacloban",
+        "addr:province": "Leyte",
+        "addr:village": "Barangay 94-A",
+        "amenity": "school",
+        "isced:level": "1",
+        "name": "Basper Elementary School",
+        "operator": "District Learning Center III Tacloban City Schools Division, DepEd",
+        "operator:type": "public",
+        "population:pupils:2012": "259",
+        "population:pupils:2015": "303",
+        "ref": "124232",
+        "source": "Department of Education, Philippines",
+        "source:date": "2012",
+        "start_date": "2000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.9614841,
+          11.2525072
+        ]
+      },
+      "id": "node/3391937203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3519839516",
+        "amenity": "school",
+        "name": "Angelicum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.9945324,
+          11.2175388
+        ]
+      },
+      "id": "node/3519839516"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4407058391",
+        "addr:street": "Avenida Veteranos Street",
+        "amenity": "school",
+        "phone": "3212310"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.0013415,
+          11.2403167
+        ]
+      },
+      "id": "node/4407058391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4407077092",
+        "addr:street": "Avenida Veteranos Street",
+        "amenity": "school",
+        "name": "Liceo del Verbo Divino",
+        "name:en": "Liceo del Verbo Divino"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.0016355,
+          11.2401202
+        ]
+      },
+      "id": "node/4407077092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4542192091",
+        "amenity": "school",
+        "name": "Bright Spark School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.0068715,
+          11.241907
+        ]
+      },
+      "id": "node/4542192091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4741644523",
+        "addr:housenumber": "141",
+        "addr:postcode": "6500",
+        "addr:street": "Sto. Nino Street",
+        "amenity": "school",
+        "email": "sbrleyte@yahoo.com",
+        "name": "SBR Marine Services Corp.",
+        "name:en": "SBR Marine Services Corp.",
+        "opening_hours": "Mo-Su 08:00-17:00",
+        "operator": "SBR",
+        "website": "https://www.sbrmarine.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.0030923,
+          11.2420671
+        ]
+      },
+      "id": "node/4741644523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4881265825",
+        "addr:city": "Tacloban City",
+        "addr:housenumber": "262",
+        "addr:postcode": "6500",
+        "addr:street": "P. Burgos Street",
+        "amenity": "school",
+        "check_date": "2023-05-17",
+        "name": "Asian Development Foundation College (ADFC Main Campus)",
+        "name:en": "ADFC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.002837,
+          11.2413212
+        ]
+      },
+      "id": "node/4881265825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6084374085",
+        "amenity": "school",
+        "name": "SBR Leyte Review Cntr",
+        "name:en": "SBR Leyte Review Cntr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.0034552,
+          11.2419846
+        ]
+      },
+      "id": "node/6084374085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6904295268",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.9597491,
+          11.2792299
+        ]
+      },
+      "id": "node/6904295268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8494364322",
+        "amenity": "school",
+        "name": "Sacred Heart School of Tacloban"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.0038437,
+          11.2457143
+        ]
+      },
+      "id": "node/8494364322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8707972502",
+        "addr:city": "Tacloban",
+        "addr:province": "Leyte",
+        "addr:village": "Palanog",
+        "amenity": "school",
+        "isced:level": "1",
+        "name": "Palanog Resettlement Elementary School",
+        "operator": "District Learning Center II Tacloban City Schools Division, DepEd",
+        "operator:type": "public",
+        "population:pupils:2012": "501",
+        "population:pupils:2015": "572",
+        "ref": "124239",
+        "source": "Department of Education, Philippines",
+        "source:date": "2012",
+        "start_date": "1978"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.9544325,
+          11.2523407
+        ]
+      },
+      "id": "node/8707972502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8707996594",
+        "addr:city": "Tacloban",
+        "addr:province": "Leyte",
+        "addr:village": "Santo Niño",
+        "amenity": "school",
+        "isced:level": "1",
+        "name": "Santo Niño Elementary School",
+        "old_name": "Santo Niño Primary School",
+        "operator": "District Learning Center V Tacloban City Schools Division, DepEd",
+        "operator:type": "public",
+        "population:pupils:2012": "329",
+        "population:pupils:2015": "367",
+        "ref": "124241",
+        "source": "Department of Education, Philippines",
+        "source:date": "2012",
+        "start_date": "1980"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.9435791,
+          11.3314794
+        ]
+      },
+      "id": "node/8707996594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8837317717",
+        "addr:postcode": "6500",
+        "amenity": "school",
+        "name": "Doanne Jill's SPED and Tutorial Center",
+        "opening_hours": "Mo-Fr 09:00-16:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.9812636,
+          11.2350864
+        ]
+      },
+      "id": "node/8837317717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10185089117",
+        "amenity": "school",
+        "name": "Mosaicca Cultura"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.0043702,
+          11.2418602
+        ]
+      },
+      "id": "node/10185089117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10904530108",
+        "addr:floor": "3",
+        "amenity": "school",
+        "check_date": "2023-05-17",
+        "level": "3",
+        "name": "ABE International College of Business and Economics",
+        "operator:type": "public"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.999214,
+          11.2425454
+        ]
+      },
+      "id": "node/10904530108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10904530125",
+        "amenity": "school",
+        "check_date": "2023-05-17",
+        "denomination": "roman_catholic",
+        "name": "LICEO DEL VERBO DIVINO",
+        "operator:type": "private",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.0016595,
+          11.2401417
+        ]
+      },
+      "id": "node/10904530125"
+    }
+  ]
+}
